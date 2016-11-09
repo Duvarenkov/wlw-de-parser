@@ -1,6 +1,6 @@
 # -*- coding:utf-8 -*-
 
-import csv as csv
+import csv
 import time
 import urllib.request
 
